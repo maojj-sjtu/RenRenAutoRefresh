@@ -1,4 +1,4 @@
-// ==UserSrcipt==
+// ==UserScript==
 // @name 	renrenautorefresh
 // @namespace	renrenautorefresh
 // @description 用于人人网自动刷新 攒RP
