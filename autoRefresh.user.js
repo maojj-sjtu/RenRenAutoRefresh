@@ -8,4 +8,4 @@
 function myrefresh(){
 window.lcation.reload();
 }
-setTimeout('myrefresh()',1860000);
+setTimeout('myrefresh()',5000);
