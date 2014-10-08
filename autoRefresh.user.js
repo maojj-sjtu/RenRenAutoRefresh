@@ -1,3 +1,4 @@
+alert('aaa');
 function myrefresh(){
   alert('refresh!');
   location.reload();
